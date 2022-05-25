@@ -30,8 +30,9 @@ More casually according to [@josh_willis](https://twitter.com/josh_wills/status/
 
 > Data Scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician.
 
+## Summary
 
-## Path overview
+### Path overview
 
 ![Data Scientist Career Path](Data-Scientist-Career-Path.png)
 
@@ -53,9 +54,23 @@ The image above shows an overview of the Data Scientist Career Path and is descr
 * A Senior Director of Data Science may be promoted to Vice President which is a peer level of the [Chief Data Scientist](chief-data-scientist/README.md).
 
 
-## Key Points
+### Key Points
 
 * Degree requirements are broad, and apart from traditional *CS/EE*, also includes specializations like __Biology__, __Physics__, __Chemistry__, __Economics__, __Anthropology__, __Sociology__, __Psychology__ where data analysis is key.
 * Data Scientist and higher requires experience in *one* statistical programming language like __R__, __Python__, __Julia__, __Octave__, etc., and __SQL__ or equivalent.
 * Ability to __communicate__ the results of analyses & methodology to technical & non-technical audiences, internal & customer, electronically & in-person.
 * Senior positions require participation in strategic planning initiatives & providing thought leadership.
+
+
+## Detailed Description
+
+* [Common Qualifications across Roles](common-qualifications.md)
+* Levels
+   * [Associate Data Scientist](associate-data-scientist/README.md)
+   * [Data Scientist](data-scientist/README.md)
+   * [Senior Data Scientist](senior-data-scientist/README.md)
+   * [Staff Data Scientist](staff-data-scientist/README.md)
+   * [Principal Data Scientist](principal-data-scientist/README.md)
+   * [Chief Data Scientist](chief-data-scientist/README.md)
+   * [Leads & Management](lead-manager/README.md)
+* [Further Reading](references.md)
