@@ -6,8 +6,7 @@ It is also a promotion path for individuals from a Data Analyst or Associate Dat
 
 ## Qualifications & Experience
 
-Bachelor’s with 3 years work experience, OR
-
+Bachelor’s with 3 years work experience, OR  
 Master’s with no work experience in Data Science.
  
 Relevant programming skills as specified earlier.
