@@ -27,3 +27,8 @@ Contribute to internal meetings, talks, posts, and electronic discussions
 ## Supervision
 
 Receives detailed instructions from a supervisor on all work
+
+
+## Promotion Path
+
+Associate Data Scientist → [Data Scientist](../data-scientist/README.md)
