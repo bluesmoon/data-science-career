@@ -31,4 +31,6 @@ Receives detailed instructions from a supervisor on all work
 
 ## Promotion Path
 
-Associate Data Scientist → [Data Scientist](../data-scientist/README.md)
+|  |  |  |
+|  :---:  |  :---: |  :---: |
+| Associate Data Scientist | → | [Data Scientist](../data-scientist/README.md) |

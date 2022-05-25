@@ -37,4 +37,6 @@ Receives general instructions on routine work
 
 ## Promotion Path
 
-[Associate Data Scientist](../associate-data-scientist/README.md) → Data Scientist → [Senior Data Scientist](../senior-data-scientist/README.md)
+|  |  |   |  |  |
+|  :---:  |  :---: |  :---: |  :---: |  :---: |
+| [Associate Data Scientist](../associate-data-scientist/README.md) | → | Data Scientist | → | [Senior Data Scientist](../senior-data-scientist/README.md) |
