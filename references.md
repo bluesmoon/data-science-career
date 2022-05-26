@@ -64,7 +64,7 @@
   https://towardsdatascience.com/becoming-a-level-3-0-data-scientist-52641ff73cb3
 
 * Interviews with heads of data science  
-  https://dev.to/michellelynneb/interview-with-head-of-data-science-annie-flippo-4inc
+  https://dev.to/michellelynneb/interview-with-head-of-data-science-annie-flippo-4inc \
   https://towardsdatascience.com/how-to-avoid-the-worst-mistake-every-data-scientist-can-make-using-these-2-crucial-steps-a25a90b0995
 
 * Data Science Career Paths  
@@ -72,3 +72,12 @@
 
 * Organizing and Scaling an Effective Data Team  
   https://www.robdearborn.com/2022/03/13/organizing-and-scaling-an-effective-data-team/
+
+* Leading a Data Science team when you are not a Data Scientist\
+  https://towardsdatascience.com/leading-a-data-science-team-when-you-are-not-a-data-scientist-540db8fa9acf
+
+* Managing a Data Science Team by Angela Bassa\
+  https://hbr.org/2018/10/managing-a-data-science-team
+
+* Why it's your fault Data Scientists keep quitting\
+  https://www.techrepublic.com/article/why-its-your-fault-your-data-scientists-keep-quitting/
