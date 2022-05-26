@@ -22,8 +22,6 @@ Understands ethics of data collection, protecting privacy, and familiar with mea
 
 Can identify and remedy systemic biases in data collection.
 
-> See also the list of [Common Qualifications across Roles](../common-qualifications.md)
-
 
 ## Responsibilities
 
@@ -52,3 +50,5 @@ May oversee work done by more junior team members.
 | [Senior Data Scientist](../senior-data-scientist/README.md) | → | Staff Data Scientist | → | [Principal Data Scientist](../principal-data-scientist/README.md) |
 |  |  | ↓ |  |  |
 |  |  | [Staff Data Scientist - Lead](../lead-manager/README.md) |  |  |
+|  |  | ↓ |  |  |
+|  |  | [Senior Data Science Manager](../lead-manager/README.md) |  |  |

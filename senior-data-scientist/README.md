@@ -48,3 +48,5 @@ May oversee work done by more junior team members.
 | [Data Scientist](../data-scientist/README.md) | → | Senior Data Scientist | → | [Staff Data Scientist](../staff-data-scientist/README.md) |
 |  |  | ↓ |  |  |
 |  |  | [Senior Data Scientist - Lead](../lead-manager/README.md) |  |  |
+|  |  | ↓ |  |  |
+|  |  | [Data Science Manager](../lead-manager/README.md) |  |  |
