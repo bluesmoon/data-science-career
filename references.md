@@ -81,3 +81,9 @@
 
 * Why it's your fault Data Scientists keep quitting\
   https://www.techrepublic.com/article/why-its-your-fault-your-data-scientists-keep-quitting/
+
+* Data Science for Managers\
+  https://medium.com/activewizards-machine-learning-company/data-science-for-managers-mindmap-bb95bedc3154
+
+* Scrum for Data Science\
+  https://eugeneyan.com/writing/what-i-love-about-scrum-for-data-science/
